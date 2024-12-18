@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid red;
+    margin-top: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    background-color:blue;
+    background-image: url("images/img6.jpg");
+    width: 400px;
+    height: 400px;
+    float: left;
+
+    /* ling-height: 50px;
+    word-spacing: 20px;
+    letter-spacing: 10px; */
+}
+h2{
+    background-color: orange;
+    padding: 10px;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+    background-image: url("images/img6.jpg");
+}
